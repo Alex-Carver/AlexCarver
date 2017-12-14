@@ -43,6 +43,13 @@ p {
 	line-height:25px;
 	font-size:14px;
 }
+.about{
+	color:#8c9398;
+	word-spacing:1px;
+	line-height:25px;
+	font-size:18px!important;
+	text-align: left!important;
+}
 h2 {
 	font-size:15px;
 	color:#353535!important;
