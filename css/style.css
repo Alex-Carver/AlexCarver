@@ -1124,7 +1124,7 @@ ul.slides li {
 	}
 
 	.hero h1 {
-		font-size: 100px;
+		font-size: 60px;
 		line-height: 80px;
 		margin-top: 65px;
 }
@@ -1143,6 +1143,9 @@ ul.slides li {
 	}
 	.wp2,.wp4,.wp5,.light-box {
 		margin-bottom: 30px;
+	}
+	.about-image{
+		width: 100%;
 	}
 }
 /* xGA iPad */
