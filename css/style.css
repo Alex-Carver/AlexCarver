@@ -641,12 +641,12 @@ h1.arrow span {
 	margin-bottom:40px;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	border: 1px solid #E04343;
-	color: #E04343;
+	border: 1px solid  #c6a902;
+	color: #e04342;
 }
 .services .item:hover .icon {
 	background: #E04343;
-	border: 1px solid #E04343;
+	border: 1px solid #c6a902;
 }
 .services .item [class*=fa] {
 	-webkit-transition:all .3s ease-out;
