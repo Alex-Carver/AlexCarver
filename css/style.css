@@ -141,7 +141,7 @@ h5 {
 	margin:1.67em 0;
 }
 h6 {
-	font-size: 12px;
+	font-size: 1.5rem;
 	margin:2.33em 0;
 }
 abbr[title] {
@@ -291,6 +291,71 @@ table {
 .section-padding {
 	padding:90px 0 100px
 }
+
+.features{
+	width: 100%;
+	background-image: url(../img/lord.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.services .icon {
+    position: relative;
+    width: 175px;
+    height: 175px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 180px;
+    font-size: 56px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 0 rgba(0,0,0,0.0);
+    margin-bottom: 40px;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+    border: 1px solid #c6a902;
+    color: #e04342;
+    background: #fff!important;
+}
+
+.services .icon:hover{
+    position: relative;
+    width: 175px;
+    height: 175px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 180px;
+    font-size: 56px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 0 rgba(0,0,0,0.0);
+    margin-bottom: 40px;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+    border: 1px solid #c6a902;
+    color: #333;
+    background: transparent;
+}
+
+
+#service h2{
+	color: #fff!important;
+}
+
+#service p{
+	font-size: 1rem!important;
+	color: #fff;
+}
+
+#service h1.arrow {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 4px;
+    background: url(../img/h1-bg.png) no-repeat center bottom;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
 .dark-bg {
 	background:#f3f5f8;
 }
